@@ -8,7 +8,7 @@ Chung-Ang University, Software (2018.02 ~ )
 <br>
 
 ## 🔎Experience
-Chun-Ang University, VISION & LEARNING LABORATORY Research Intern Chung-ang University (2023.01 ~ )
+Chun-Ang University, VISION & LEARNING LAB Research Intern Chung-ang University (2023.01 ~ )
 
 <br>
 
