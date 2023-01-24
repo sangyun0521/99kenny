@@ -13,7 +13,8 @@ Chun-Ang University, VISION & LEARNING LAB Research Intern Chung-ang University 
 <br>
 
 ## 💻Projects
-Jubging Application (2022.09 ~ 2022.12) : <a href="https://github.com/JUBGING" target="_blank"><img src="https://img.shields.io/badge/GithubPage-0085CA?style=flat-square&logo=GitHub&logoColor=white"/></a>
+CAUSW - Backend (2022.05 ~ 2022.08) : <a href="https://github.com/CAUCSE/CAUSW_backend"><img src="https://img.shields.io/badge/GithubPage-0085CA?style=flat-square&logo=GitHub&logoColor=white"/></a>
+Jubging Application - Backend (2022.09 ~ 2022.12) : <a href="https://github.com/JUBGING" target="_blank"><img src="https://img.shields.io/badge/GithubPage-0085CA?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
 
 <br>
