@@ -10,8 +10,6 @@ CAUSW - Backend (2022.05 ~ 2022.08) : <a href="https://github.com/CAUCSE/CAUSW_b
 ## ☎️Contact
 Email : 99sansan@naver.com
 <br>
-DevBlog : <a href="https://fine-code.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-006600?style=flat-square&logo=dev.to&logoColor=white"/></a>
-
 
  <br>
  
