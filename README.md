@@ -11,6 +11,5 @@ CAUSW - Backend (2022.05 ~ 2022.08) : <a href="https://github.com/CAUCSE/CAUSW_b
 Email : 99sansan@naver.com
 <br>
 
- <br>
- 
-![99kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=99kenny&show_icons=true&theme=radical)
+<br>
+
